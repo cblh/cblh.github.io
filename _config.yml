@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : Burlin
+      short_name : burlinchen
     livefyre :
       site_id : 123
     intensedebate :
